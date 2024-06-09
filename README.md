@@ -11,7 +11,8 @@ Begin your analysis by referrring to the 'primary_and_secondary_questions.pdf'. 
 You can use additional data based on your own research to support your recommendations and provide more insights.
 Be creative with your presentation, audio/video presentatio will have more weightage. You will be presenting these insights to the chief editor Bruce Haryali - he appreciates good storytelling and consice presentation.
 
-- **Primary Questions:** 
+- **Primary Questions:**
+- 
     **1.** List  Top 5 / Bottom  5 constituencies of 2014 & 2019 in terms of voter turnout ratio
   
     **2.** List  Top 5 / Bottom  5 states of 2014 & 2019 in terms of voter turnout ratio
@@ -34,5 +35,5 @@ Be creative with your presentation, audio/video presentatio will have more weigh
   
    **11.** Which constituencies have elected candidates whose party has less than 10% vote share at state level in 2019 ?
 
-
+- **Secondary Questions**
     
