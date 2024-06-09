@@ -13,15 +13,25 @@ Be creative with your presentation, audio/video presentatio will have more weigh
 
 - **Primary Questions:** 
     **1.**List  Top 5 / Bottom  5 constituencies of 2014 & 2019 in terms of voter turnout ratio
+  
     **2.**List  Top 5 / Bottom  5 states of 2014 & 2019 in terms of voter turnout ratio
+  
     **3.**Which Constituencies have elected the same party for two consecutive elections. Rank them by % of votes to the winning party in 2019
+  
     **4.**Which Constituencies have voted for different parties in two consecutive elections. List Top 10 based on difference in winner vote % in two elections.
+  
     **5.**Top 5 candidates based on Margin Difference with runners in 2014 & 2019
+  
     **6.**% Split of votes of parties between 2014 & 2019 at national level
+  
     **7.**% Split of votes of parties between 2014 & 2019 at State level
-    **8.**List  Top 5 constituencies for two major national parties where they have gained vote share in 2019 as compared to 2014 
-    **9.**List  Top 5 constituencies for two major national parties where they have lost vote share in 2019 as compared to 2014 
+  
+    **8.**List  Top 5 constituencies for two major national parties where they have gained vote share in 2019 as compared to 2014
+  
+    **9.**List  Top 5 constituencies for two major national parties where they have lost vote share in 2019 as compared to 2014
+  
    **10.**Which constituency has voted the most for NOTA ?
+  
    **11.**Which constituencies have elected candidates whose party has less than 10% vote share at state level in 2019 ?
 
 
