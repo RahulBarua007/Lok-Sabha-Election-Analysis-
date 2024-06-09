@@ -12,7 +12,7 @@ You can use additional data based on your own research to support your recommend
 Be creative with your presentation, audio/video presentatio will have more weightage. You will be presenting these insights to the chief editor Bruce Haryali - he appreciates good storytelling and consice presentation.
 
 - **Primary Questions:**
-- 
+  
     **1.** List  Top 5 / Bottom  5 constituencies of 2014 & 2019 in terms of voter turnout ratio
   
     **2.** List  Top 5 / Bottom  5 states of 2014 & 2019 in terms of voter turnout ratio
@@ -36,4 +36,15 @@ Be creative with your presentation, audio/video presentatio will have more weigh
    **11.** Which constituencies have elected candidates whose party has less than 10% vote share at state level in 2019 ?
 
 - **Secondary Questions**
+
+    **1.** Is there any correlation between Postal vote% and Voter Turnout %?
+
+    **2.** Is there any correlation between GDP of a state and Voter Turnout %?
+
+    **3.** Is there any correlation between Literacy% of a state and Voter Turnout %?
+
+    **4.** Recommendation to Election Commission/Government of India to increase voter turnout %
+  
+
+  
     
