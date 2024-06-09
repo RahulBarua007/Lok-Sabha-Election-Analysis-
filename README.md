@@ -2,6 +2,9 @@
 Lok Sabha Election Analysis for 2014 &amp; 2019 By CodeBasics Resume Project Challenge #11
 
 
+## Link to : [Video Presentation in LinkedIn](https://www.linkedin.com/posts/rahul-barua-37444726b_dataanalytics-loksabhaelections-electioninsights-activity-7205222164818501632-fAdE?utm_source=share&utm_medium=member_desktop)
+
+
 ## Problem Statement :
 AtliQ Media is a private media company and they wanted to telecast a show on LokSabha eletions 2024 in India. Unlike others channels they do not want to have a debate on who is going to win this election, they rather wanted to present insights from 2014 and 2019 elections without any bias and discuss less explored themes like voter turnout percentage in India. Peter is a data analyst in the company, and he is handed over this task of generating meaningful insights from data. Since this is a sensitive topic, he seeked help from his manager Tony Sharma who provided the list of primary and secondary questions.
 
